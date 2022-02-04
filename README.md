@@ -1,0 +1,1 @@
+# Nagateja-map-reduce-WineQt
