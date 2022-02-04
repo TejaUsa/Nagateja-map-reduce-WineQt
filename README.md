@@ -3,48 +3,20 @@
 
 ## Context
 
-The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
+A Saudi Arabia tamimi supermarket dataset for marketing analysis purposes
 
-Attribute information
+Expenses records from a recently Tamimi supermarket from ٍSaudi Arabia.The data collected on April of 2020.
 
-Invoice id: Computer generated sales slip invoice identification number
+## Question
 
-Branch: Branch of supercenter (3 branches are available identified by A, B and C).
+List all the companies total sale prices.
 
-City: Location of supercenters
+## Summary
 
-Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.
+Following companies are all the sales
 
-Gender: Gender type of customer
+![all companies](images/Picture1.png)
 
-Product line: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel
+Following are the companies list which are top 10 in sales
 
-Unit price: Price of each product in $
-
-Quantity: Number of products purchased by customer
-
-Tax: 5% tax fee for customer buying
-
-Total: Total price including tax
-
-Date: Date of purchase (Record available from January 2019 to March 2019)
-
-Time: Purchase time (10am to 9pm)
-
-Payment: Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet)
-
-COGS: Cost of goods sold
-
-Gross margin percentage: Gross margin percentage
-
-Gross income: Gross income
-
-Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
-
-Acknowledgements
-
-Thanks to all who take time and energy to perform Kernels with this dataset and reviewers.
-
-Purpose
-
-This dataset can be used for predictive data analytics purpose.
+![top10](images/Picture2.png)
